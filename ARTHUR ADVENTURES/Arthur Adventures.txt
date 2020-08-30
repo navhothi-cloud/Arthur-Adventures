@@ -1,0 +1,32 @@
+1 Pc=Arthur,Npc=star,
+nenemies=trex,Monkeys,other
+        easy     medium    hard     veryHARD 
+       level 1   level 2  level 3  level4 last
+Boss= Supermario,gabble,  lynx,    Arthur Clone
+2 story= Arthur struck in Time loop
+He need to find his time machine.
+He will find time machine after playing all 
+four levels Easy,Medium,Hard,Very hard.
+with the increaseing in level nenemy power will increase
+     
+3 goals
+after game starts arthur will get diffrent weapons
+to defeat boss and nenemy.he need to find all to contiune
+he need to defeat all levels ton get time machine
+4 rules
+Pc should not use third party applications to get advantage 
+5 balance
+in Game Arthur will given 3 lifes
+after completing one level arthur upgrade weapons have power to kill bosss of b=next level 
+6 adpativitity
+  
+7 chance and skill
+win or lose after 3 life over,finger movement requires 
+8 Feedback
+when arthur hits nenemy,boss his or her life will shown on top   
+9 on screen 
+restart Button
+Joystick Button
+attack Button
+pause button
+interact button(will only shown when boss is laid on Ground )
